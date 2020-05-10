@@ -11,6 +11,7 @@
       "replicas":1,
       "selector":{
          "app":"blue"
+		 
       },
       "template":{
          "metadata":{

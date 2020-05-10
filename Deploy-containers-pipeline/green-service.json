@@ -12,11 +12,13 @@
          {
            "port":8000,
            "targetPort":80
+		   
          }
       ],
       "selector":{
          "app":"green"
       },
       "type": "LoadBalancer"
+	  
    }
 }
