@@ -13,7 +13,7 @@
 
 ## About Project: 
 
-> I created a CI/CD pipeline for a basic website that deploys to a cluster in AWS EKS which is Blue/Green Deployment.
+> this project created a CI/CD pipeline for a basic website that deploys to a cluster in AWS EKS which is Blue/Green Deployment.
 
 ![img-1](Images-of-result-deploy/Project.png)
 
